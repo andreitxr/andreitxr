@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I'm Andrei Magalhães 👋
+
+<pre>
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+      }
+      let andreiTxr = new dev('Andrei Magalhães', 27, 'Engineer Computer Student and Front-end Developer');
+      console.log(andreiTxr);
+</pre>
 
 <!--
 **andreitxr/andreitxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
